@@ -1,4 +1,4 @@
-package Structures.queue;
+package Structures.Queue;
 
 public class QueueException extends Exception {
     QueueException() {

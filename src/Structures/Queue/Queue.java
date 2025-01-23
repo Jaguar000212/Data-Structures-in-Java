@@ -1,4 +1,4 @@
-package Structures.queue;
+package Structures.Queue;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package Structures.stack;
+package Structures.Stack;
 
 public class StackException extends Exception {
     StackException() {
